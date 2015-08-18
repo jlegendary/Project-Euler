@@ -1,10 +1,13 @@
 //
 //  main.cpp
-//  PE13
+//   Large sum
 //
-//  Created by Lejendary on 7/15/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 7/15/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
+//   JLegendary@me.com
 //
+
+
 #include <stdio.h>
 #include <string.h>
 
