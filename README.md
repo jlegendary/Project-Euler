@@ -19,3 +19,4 @@ Project Euler problems
 |12| Highly divisible triangular number | [C++](012/main.cpp)
 |13| Large sum | [C++](013/main.cpp)
 |14| Longest Collatz sequence | [C++](014/main.cpp)
+|15| Lattice paths | [C++](015/main.cpp)
