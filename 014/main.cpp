@@ -1,9 +1,10 @@
 //
-//  PE14
-//    Longest Collatz Sequence
+//  main.cpp
+//   Longest Collatz Sequence
 //
 //  Created by Jlegendary on 8/15/15.
 //  Copyright (c) 2015 JLegendary. All rights reserved.
+//   JLegendary@me.com
 //
 
 #include<iostream>
