@@ -1,10 +1,11 @@
 //
 //  main.cpp
-//  PE12
+//   Highly divisible triangular number
 //
-//  Created by Lejendary on 7/12/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
-//
+//  Created by JLegendary on 7/12/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
+//   JLegendary@me.com
+
 
 #include <iostream>
 #include <cmath>
