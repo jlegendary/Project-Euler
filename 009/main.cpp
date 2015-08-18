@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  PE9
+//   Special Pythagorean triplet
 //
-//  Created by Lejendary on 6/28/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 6/28/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
 //
 
 #include <iostream>
