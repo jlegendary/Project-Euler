@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  Project 1 Multiples of 3 and 5
+//   Project 1 Multiples of 3 and 5
 //
-//  Created by Lejendary on 6/24/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 6/24/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
 //
 
 
