@@ -1,3 +1,12 @@
+//
+//  main.cpp
+//   Largest product in a grid
+//
+//  Created by JLegendary on 7/5/15.
+//  Copyright (c) 2015 JLegendary All rights reserved.
+//
+
+
 #include <iostream>
 
 const int row = 20;
