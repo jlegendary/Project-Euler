@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  PE5
+//   Smallest mutliple
 //
-//  Created by Lejendary on 6/26/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 6/26/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
 //
 
 #include <iostream>
