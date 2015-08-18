@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  PE8
+//   Largest product in a series
 //
-//  Created by Lejendary on 6/28/15.
-//  Copyright (c) 2015 Lejendary. All rights reserved.
+//  Created by JLegendary on 6/29/15.
+//  Copyright (c) 2015 JLegendary. All rights reserved.
 //
 
 
